@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/coding_screen.jpg";
+import image from "../images/home-image.jpg";
 
 const imageAltText = "A load of terms related to game development on black background.";
 
